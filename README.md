@@ -5,3 +5,4 @@
       Their mobile device detects certain external factors that may be associated with a dangerous situation, 
       such as triggers and potentially, 
       perceiving areas of heightened crime.
+      This app is incomplete for now, I plan to complete it as soon as possible.
